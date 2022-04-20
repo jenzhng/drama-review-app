@@ -13,3 +13,5 @@ Runs the frontend angular-cli app in development mode.
 ### `dotnet run DramaReviewApp`
 
 Runs the webapi from project directory. 
+
+## Screenshots
