@@ -15,4 +15,4 @@ Runs the frontend angular-cli app in development mode.
 Runs the webapi from project directory. 
 
 ## Screenshots
-![Alt text](https://github.com/jenzhng/drama-review-app/blob/master/drama-review-app-demo.png)
+![Alt text](https://github.com/jenzhng/drama-review-app/blob/main/drama-review-app-demo.png)
