@@ -1,0 +1,3 @@
+[submodule "drama-app"]
+	path = drama-app
+	url = https://github.com/jenzhng/drama-review-app.git

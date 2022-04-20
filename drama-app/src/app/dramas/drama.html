@@ -1,0 +1,20 @@
+
+
+<div class="page-header-text">
+   TV Shows <span class="badge">{{dramas.id}}</span>
+</div>
+<li>
+<a class="drama" role="button"
+  [routerLink]="['']"
+    *ngFor="let drama of dramas" >
+    <img [src]="drama.imageUrl" class="album-image" />
+    <div style="padding-left: 0px;" class="text-info">
+        <div class="album-title">{{drama.title}}</div>
+        <div class="album-artist">
+            by {{drama.title}}
+            {{(drama.title ? 'in ' + drama.title : '')}}
+        </div>
+        <div class="album-descript">{{drama.title}}</div>
+    </div>
+</a>
+</li>
